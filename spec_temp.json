@@ -1,0 +1,21 @@
+{
+  "title": "Oportunidades de Ingresos",
+  "subtitle": "Generado el 2026-06-19",
+  "date": "2026-06-19",
+  "sections": [
+    {
+      "heading": "1. Bounties Activas",
+      "bullets": [
+        "- Algora: Fix bug in Auth middleware ($500) - Node.js",
+        "- IssueHunt: Optimize Python data pipeline ($1200) - Python"
+      ]
+    },
+    {
+      "heading": "2. Gigs Freelance",
+      "bullets": [
+        "- Upwork: ML Engineer for automated scraping ($50/hr) - Python, AI",
+        "- Fiverr: Custom Trading Bot Development ($1000) - Python"
+      ]
+    }
+  ]
+}
